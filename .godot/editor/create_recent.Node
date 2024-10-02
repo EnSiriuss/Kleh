@@ -1,0 +1,14 @@
+Label
+Node
+AnimationTree
+AnimationPlayer
+Sprite2D
+TextureRect
+Control
+ColorRect
+AnimatedSprite2D
+RemoteTransform2D
+Camera2D
+CollisionShape2D
+CharacterBody2D
+TileMap

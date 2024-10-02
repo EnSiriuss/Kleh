@@ -1,3 +1,4 @@
 res://Levels/test_level.tscn
-res://README.md
 res://Character/player.tscn
+res://Character/Enemies/Snail/Snail.tscn
+res://Character/Enemies/Snail/Damageble.gd

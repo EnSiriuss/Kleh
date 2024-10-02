@@ -337,7 +337,6 @@ landing_animation = "jump_end"
 script = ExtResource("10_e7jjg")
 landing_animation_name = "jump_end"
 ground_state = NodePath("../Ground")
-can_move = false
 
 [node name="StateDebugLabel" type="Label" parent="." node_paths=PackedStringArray("state_machine")]
 offset_left = -50.0

@@ -1,7 +1,10 @@
+CollisionShape2D
+Area2D
+Timer
+State
 Node
 AnimationPlayer
 Sprite2D
-CollisionShape2D
 CharacterBody2D
 Label
 AnimationTree
@@ -9,6 +12,3 @@ TextureRect
 Control
 ColorRect
 AnimatedSprite2D
-RemoteTransform2D
-Camera2D
-TileMap

@@ -84,5 +84,5 @@ libraries = {
 "": SubResource("AnimationLibrary_34fof")
 }
 
-[node name="Damageble" type="Node" parent="."]
+[node name="Damageable" type="Node" parent="."]
 script = ExtResource("2_gubd4")

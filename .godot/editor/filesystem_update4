@@ -1,5 +1,5 @@
 res://Levels/test_level.tscn
-res://Character/Enemies/Snail/Damageble.gd
 res://Character/player.tscn
 res://Character/Enemies/Snail/Snail.tscn
 res://Character/sword.gd
+res://Character/Enemies/Snail/Damageble.gd
